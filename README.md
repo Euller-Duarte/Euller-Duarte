@@ -21,3 +21,19 @@
 ## Sobre mim
 
 Graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), atualmente direcionando minha formação para a área de Análise de Dados e Business Intelligence. Desenvolvo uma abordagem orientada ao planejamento, estruturação, tratamento e análise de dados, com atenção à consistência das informações, aplicação de métodos estatísticos, interpretação de métricas e comunicação objetiva dos resultados. Meu portfólio reúne projetos desenvolvidos com dados públicos, nos quais aplico esse processo desde a preparação dos dados até a elaboração de análises e dashboards. Será um prazer me conectar com você.
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" title="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" title="Bash" />
+</div>
